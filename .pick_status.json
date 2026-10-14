@@ -7044,7 +7044,7 @@
         "description": "kraid/copy_prop: Fix narrowing FAdd being ignored",
         "nominated": true,
         "nomination_type": 2,
-        "resolution": 0,
+        "resolution": 1,
         "main_sha": null,
         "because_sha": "218c19b513c3979c569f693969e1fd28f82a156a",
         "notes": null
